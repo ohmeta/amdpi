@@ -3,9 +3,17 @@
 * Intorduction
 Track published microbiome datasets
 
-* Catalogue
-** Reads
 
-** Genes
-
-** Genomes
+* Reseach questions
+** Benchmarking microbial growth rate predictions from metagenomes
+*** [[https://www.ebi.ac.uk/ena/browser/view/PRJNA551656][PRJNA551656]]
+** Benchmarking metagenomics profiling
+*** CAMI-I-Low
+*** CAMI-I-Medium
+*** CAMI-I-High
+*** [[https://figshare.com/projects/ Challenges_in_Benchmarking_Metagenomic_Profilers/79916.][CBMP]]
+** Benchmarking metagenomics assembly
+*** [[https://github.com/B-UMMI/LMAS][LMAS]]
+** In "vitro" a defined microbial community
+*** hCom1
+*** hCom2
